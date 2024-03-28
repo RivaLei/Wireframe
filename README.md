@@ -82,7 +82,7 @@ So far as we know, there exist two wireframe datasets namely [**ShanghaiTech**](
 |  YorkUrban   | sAP<sup>10</sup> |  2.1   |  9.4   |     -     |  26.4   |    -    |  27.4  |   27.4    |  28.5   |  29.4   |    30.8    |
 |              |  AP<sup>H</sup>  |  51.0  |  48.2  |           |  58.5   |    -    |   -    |     -     |  60.6   |  61.2   |    65.0    |
 
-# 3D Wireframe-just test push
+# 3D Wireframe
 
 <p align="center">
 <img src="img/3d-wireframe.png"  width="400">
